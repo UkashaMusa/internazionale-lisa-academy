@@ -1,8 +1,50 @@
-# React + Vite
+🌍 Internazionale Lisa Academy
+A modern, global educational platform built with React & Web3Forms
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🖥️ Project Preview
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The homepage features a beautiful university-style background with two students studying, giving a scholarly and welcoming first impression.
+
+Top-right navigation bar includes:
+
+Home
+
+Program
+
+About Us
+
+Campus
+
+Testimonial
+
+Contact Us (Stylishly highlighted with a button)
+
+The hero section includes:
+
+“We Ensure better education for a better world”
+Alongside a call to action: "Explore more →"
+
+💡 Project Description
+Internazionale Lisa Academy is a responsive academic website built using React, with seamless email integration powered by Web3Forms.
+
+This landing page aims to promote an international school that prioritizes global learning, accessibility, and cutting-edge digital communication.
+
+✨ Key Features:
+✅ Responsive Design: Fully optimized for desktop and mobile.
+
+📬 Contact Integration: Built with Web3Forms to collect contact messages without a backend.
+
+🌐 Elegant UI: Clean typography and layout for a premium academic look.
+
+⚛️ Powered by React: Fast, component-based architecture for scalability.
+
+📎 Easy Navigation: Clear links to programs, testimonials, campus info, and more.
+
+🧰 Tech Stack
+Frontend: React + CSS (or Tailwind if used)
+
+Email Handling: Web3Forms
+
+
+![Desktop Preview](./src/assets/previewofinternazionale.png)
